@@ -4,7 +4,7 @@ import java.util.*;
 class ConvertArray{
     public static void main(String[] args) {
 
-        Solution s = new Solution();
+        Solution2610 s = new Solution2610();
         int[] nums = {1,3,4,1,2,3,1};
         System.out.println(s.findMatrix(nums));
                 
@@ -12,7 +12,7 @@ class ConvertArray{
     }
 }
 
-class Solution {
+class Solution2610 {
 
     public List<List<Integer>> findMatrix(int[] nums) {
 
