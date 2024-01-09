@@ -1,5 +1,5 @@
 package Solutions;
-import java.util.HashMap;
+import java.util.*;
 public class ArithmeticSlices2 {
     public static void main(String[] args) {
 
@@ -12,41 +12,50 @@ public class ArithmeticSlices2 {
 }
 
 class Solution446{
+
     public int numberOfArithmeticSlices(int[] nums) {
 
-        HashMap<Integer,Integer>[] arr = new HashMap[nums.length];
+        int n = nums.length;
+
+        int[][] arr = new int[n][n];
+
+        HashMap<Long, ArrayList<Integer>> map = new HashMap<>();
+
+        for(int i = 0; i < n; i++){
+
+            long temp = nums[i];
+
+            if(!map.containsKey(temp)){
+                map.put(temp, new ArrayList<Integer>());
+            }
+
+            map.get(temp).add(i);
+        }
 
         int result = 0;
 
-        for(int i = 0; i < nums.length; i++){
-            arr[i] = new HashMap<>();
-        }
-            
+        for(int i = 1; i < n; i++){
 
-        for(int i = 0; i < nums.length; i++){
-            for(int j = 0; j < i; j++){
+            for(int j = i + 1; j < n; j++){
 
-                long diff = (long)(nums[i] - nums[j]);
+                long a = 2L * nums[i] - nums[j]; //prevent overflow
 
-                if (diff > Integer.MAX_VALUE || diff < Integer.MIN_VALUE) {
-                    continue; 
+                if(map.containsKey(a) ){
+
+                    for(int k : map.get(a)){
+
+                        if(k < i){
+                            arr[i][j] += arr[k][i] + 1;
+                        }else{
+                            break;
+                        }
+                        
+                    }
+
                 }
-
-                int diffInt = (int) diff;
-
-                arr[i].put(diffInt, arr[i].getOrDefault(diffInt, 0) + 1);  
-                if (arr[j].containsKey(diffInt)) {
-                    arr[i].put(diffInt, arr[i].get(diffInt) + arr[j].get(diffInt));
-                    result += arr[j].get(diffInt);
-                }
-
-                System.out.println(arr[i]);
-
+                result += arr[i][j];
             }
         }
-
-
         return result;
-        
     }
 }
