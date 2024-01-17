@@ -13,8 +13,8 @@
 - [x]  13 January: 1347. Minimum Number of Steps to Make Two Strings Anagram (https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)
 - [x]  14 January: 1657. Determine if Two Strings Are Close (https://leetcode.com/problems/determine-if-two-strings-are-close/)
 - [x]  15 January: 2225. Find Players With Zero or One Losses (https://leetcode.com/problems/find-players-with-zero-or-one-losses/)
-- [ ]  16 January:
-- [ ]  17 January:
+- [x]  16 January: 380. Insert Delete GetRandom O(1) (https://leetcode.com/problems/insert-delete-getrandom-o1/)
+- [x]  17 January: 1207. Unique Number of Occurrences (https://leetcode.com/problems/unique-number-of-occurrences/)
 - [ ]  18 January:
 - [ ]  19 January:
 - [ ]  20 January:
