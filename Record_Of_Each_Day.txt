@@ -16,7 +16,7 @@
 - [x]  16 January: 380. Insert Delete GetRandom O(1) (https://leetcode.com/problems/insert-delete-getrandom-o1/)
 - [x]  17 January: 1207. Unique Number of Occurrences (https://leetcode.com/problems/unique-number-of-occurrences/)
 - [x]  18 January: 70. Climbing Stairs (https://leetcode.com/problems/climbing-stairs/)
-- [ ]  19 January:
+- [x]  19 January: 931. Minimum Falling Path Sum (https://leetcode.com/problems/minimum-falling-path-sum/)
 - [ ]  20 January:
 - [ ]  21 January:
 - [ ]  22 January:
