@@ -17,7 +17,7 @@
 - [x]  17 January: 1207. Unique Number of Occurrences (https://leetcode.com/problems/unique-number-of-occurrences/)
 - [x]  18 January: 70. Climbing Stairs (https://leetcode.com/problems/climbing-stairs/)
 - [x]  19 January: 931. Minimum Falling Path Sum (https://leetcode.com/problems/minimum-falling-path-sum/)
-- [ ]  20 January:
+- [x]  20 January: 907. Sum of Subarray Minimums (https://leetcode.com/problems/sum-of-subarray-minimums/)
 - [ ]  21 January:
 - [ ]  22 January:
 - [ ]  23 January:
