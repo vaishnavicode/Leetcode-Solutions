@@ -21,8 +21,8 @@
 - [x]  21 January: 198. House Robber (https://leetcode.com/problems/house-robber/)
 - [x]  22 January: 645. Set Mismatch (https://leetcode.com/problems/set-mismatch/)
 - [x]  23 January: 1239. Maximum Length of a Concatenated String with Unique Characters (https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
-- [ ]  24 January:
-- [ ]  25 January:
+- [x]  24 January: 1457. Pseudo-Palindromic Paths in a Binary Tree (https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
+- [x]  25 January: 1143. Longest Common Subsequence (https://leetcode.com/problems/longest-common-subsequence/)
 - [ ]  26 January:
 - [ ]  27 January:
 - [ ]  28 January:
