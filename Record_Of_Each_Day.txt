@@ -18,7 +18,7 @@
 - [x]  18 January: 70. Climbing Stairs (https://leetcode.com/problems/climbing-stairs/)
 - [x]  19 January: 931. Minimum Falling Path Sum (https://leetcode.com/problems/minimum-falling-path-sum/)
 - [x]  20 January: 907. Sum of Subarray Minimums (https://leetcode.com/problems/sum-of-subarray-minimums/)
-- [ ]  21 January:
+- [x]  21 January: 198. House Robber (https://leetcode.com/problems/house-robber/)
 - [ ]  22 January:
 - [ ]  23 January:
 - [ ]  24 January:
