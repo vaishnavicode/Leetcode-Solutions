@@ -26,6 +26,6 @@
 - [x]  26 January: 576. Out of Boundary Paths (https://leetcode.com/problems/out-of-boundary-paths/)
 - [x]  27 January: 629. K Inverse Pairs Array (https://leetcode.com/problems/k-inverse-pairs-array/)
 - [x]  28 January: 1074. Number of Submatrices That Sum to Target (https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
-- [ ]  29 January:
+- [x]  29 January: 232. Implement Queue using Stacks (https://leetcode.com/problems/implement-queue-using-stacks/)
 - [ ]  30 January:
 - [ ]  31 January:
