@@ -27,5 +27,5 @@
 - [x]  27 January: 629. K Inverse Pairs Array (https://leetcode.com/problems/k-inverse-pairs-array/)
 - [x]  28 January: 1074. Number of Submatrices That Sum to Target (https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
 - [x]  29 January: 232. Implement Queue using Stacks (https://leetcode.com/problems/implement-queue-using-stacks/)
-- [ ]  30 January:
+- [x]  30 January: 150. Evaluate Reverse Polish Notation (https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 - [ ]  31 January:
