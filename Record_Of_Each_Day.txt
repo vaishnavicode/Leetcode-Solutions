@@ -28,4 +28,4 @@
 - [x]  28 January: 1074. Number of Submatrices That Sum to Target (https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
 - [x]  29 January: 232. Implement Queue using Stacks (https://leetcode.com/problems/implement-queue-using-stacks/)
 - [x]  30 January: 150. Evaluate Reverse Polish Notation (https://leetcode.com/problems/evaluate-reverse-polish-notation/)
-- [ ]  31 January:
+- [x]  31 January: 739. Daily Temperatures (https://leetcode.com/problems/daily-temperatures/)
