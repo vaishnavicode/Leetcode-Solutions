@@ -23,8 +23,8 @@
 - [x]  23 January: 1239. Maximum Length of a Concatenated String with Unique Characters (https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
 - [x]  24 January: 1457. Pseudo-Palindromic Paths in a Binary Tree (https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
 - [x]  25 January: 1143. Longest Common Subsequence (https://leetcode.com/problems/longest-common-subsequence/)
-- [ ]  26 January:
-- [ ]  27 January:
+- [x]  26 January: 576. Out of Boundary Paths (https://leetcode.com/problems/out-of-boundary-paths/)
+- [x]  27 January: 629. K Inverse Pairs Array (https://leetcode.com/problems/k-inverse-pairs-array/)
 - [ ]  28 January:
 - [ ]  29 January:
 - [ ]  30 January:
