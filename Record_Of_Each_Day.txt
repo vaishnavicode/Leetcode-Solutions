@@ -25,7 +25,7 @@
 - [x]  25 January: 1143. Longest Common Subsequence (https://leetcode.com/problems/longest-common-subsequence/)
 - [x]  26 January: 576. Out of Boundary Paths (https://leetcode.com/problems/out-of-boundary-paths/)
 - [x]  27 January: 629. K Inverse Pairs Array (https://leetcode.com/problems/k-inverse-pairs-array/)
-- [ ]  28 January:
+- [x]  28 January: 1074. Number of Submatrices That Sum to Target (https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
 - [ ]  29 January:
 - [ ]  30 January:
 - [ ]  31 January:
