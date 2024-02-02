@@ -29,3 +29,32 @@
 - [x]  29 January: 232. Implement Queue using Stacks (https://leetcode.com/problems/implement-queue-using-stacks/)
 - [x]  30 January: 150. Evaluate Reverse Polish Notation (https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 - [x]  31 January: 739. Daily Temperatures (https://leetcode.com/problems/daily-temperatures/)
+- [x]  1 February: 2966. Divide Array Into Arrays With Max Difference (https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)
+- [ ]  2 February:
+- [ ]  3 February:
+- [ ]  4 February:
+- [ ]  5 February:
+- [ ]  6 February:
+- [ ]  7 February:
+- [ ]  8 February:
+- [ ]  9 February:
+- [ ]  10 February:
+- [ ]  11 February:
+- [ ]  12 February:
+- [ ]  13 February:
+- [ ]  14 February:
+- [ ]  15 February:
+- [ ]  16 February:
+- [ ]  17 February:
+- [ ]  18 February:
+- [ ]  19 February:
+- [ ]  20 February:
+- [ ]  21 February:
+- [ ]  22 February:
+- [ ]  23 February:
+- [ ]  24 February:
+- [ ]  25 February:
+- [ ]  26 February:
+- [ ]  27 February:
+- [ ]  28 February:
+- [ ]  29 February:
