@@ -32,8 +32,8 @@
 - [x]  1 February: 2966. Divide Array Into Arrays With Max Difference (https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)
 - [x]  2 February: 1291. Sequential Digits (https://leetcode.com/problems/sequential-digits/)
 - [x]  3 February: 1043. Partition Array for Maximum Sum (https://leetcode.com/problems/partition-array-for-maximum-sum/)
-- [ ]  4 February:
-- [ ]  5 February:
+- [x]  4 February: 76. Minimum Window Substring (https://leetcode.com/problems/minimum-window-substring/)
+- [x]  5 February: 387. First Unique Character in a String (https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [ ]  6 February:
 - [ ]  7 February:
 - [ ]  8 February:
