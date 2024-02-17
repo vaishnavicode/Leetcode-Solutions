@@ -43,7 +43,7 @@
 - [ ]  12 February:
 - [x]  13 February: 2108. Find First Palindromic String in the Array (https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)
 - [x]  14 February: 2149. Rearrange Array Elements by Sign (https://leetcode.com/problems/rearrange-array-elements-by-sign/)
-- [ ]  15 February:
+- [x]  15 February: 2971. Find Polygon With the Largest Perimeter (https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/)
 - [ ]  16 February:
 - [ ]  17 February:
 - [ ]  18 February:
