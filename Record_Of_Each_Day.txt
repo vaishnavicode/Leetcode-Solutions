@@ -41,7 +41,7 @@
 - [ ]  10 February:
 - [ ]  11 February:
 - [ ]  12 February:
-- [ ]  13 February:
+- [x]  13 February: 2108. Find First Palindromic String in the Array (https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)
 - [ ]  14 February:
 - [ ]  15 February:
 - [ ]  16 February:
