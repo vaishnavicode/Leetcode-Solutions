@@ -49,7 +49,7 @@
 - [ ]  18 February:
 - [x]  19 February: 231. Power of Two (https://leetcode.com/problems/power-of-two/)
 - [ ]  20 February:
-- [ ]  21 February:
+- [x]  21 February: 201. Bitwise AND of Numbers Range (https://leetcode.com/problems/bitwise-and-of-numbers-range/)
 - [ ]  22 February:
 - [ ]  23 February:
 - [ ]  24 February:
