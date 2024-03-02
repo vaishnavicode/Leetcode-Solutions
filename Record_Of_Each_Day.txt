@@ -50,7 +50,7 @@
 - [x]  19 February: 231. Power of Two (https://leetcode.com/problems/power-of-two/)
 - [ ]  20 February:
 - [x]  21 February: 201. Bitwise AND of Numbers Range (https://leetcode.com/problems/bitwise-and-of-numbers-range/)
-- [ ]  22 February:
+- [x]  22 February: 997. Find the Town Judge (https://leetcode.com/problems/find-the-town-judge/)
 - [ ]  23 February:
 - [ ]  24 February:
 - [ ]  25 February:
