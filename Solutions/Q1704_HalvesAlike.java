@@ -1,6 +1,6 @@
-package Q_1704_Halves_Alike;
+package Solutions;
 
-public class HalvesAlike {
+public class Q1704_HalvesAlike {
     public static void main(String[] args) {
 
         Solution1704 s = new Solution1704();

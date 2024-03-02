@@ -1,6 +1,6 @@
-package Q_2385_Infected_Tree;
+package Solutions;
 
-public class InfectedTree {
+public class Q2385_InfectedTree {
     public static void main(String[] args) {
         
         //Solutions2385 s = new Solutions2385();

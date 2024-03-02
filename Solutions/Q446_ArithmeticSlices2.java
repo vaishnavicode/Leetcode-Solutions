@@ -1,6 +1,8 @@
-package Q_446_Arithmetic_Slices_2;
+package Solutions;
+
 import java.util.*;
-public class ArithmeticSlices2 {
+
+public class Q446_ArithmeticSlices2 {
     public static void main(String[] args) {
 
         Solution446 s = new Solution446();

@@ -1,6 +1,8 @@
+package Solutions;
+
 import java.util.Arrays;
 
-public class LeastNumberUniqueIntegers {
+public class Q1481_LeastNumberUniqueIntegers {
     public static void main(String[] args) {
 
         Solution1481 s = new Solution1481();

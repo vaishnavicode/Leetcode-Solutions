@@ -1,9 +1,9 @@
-package Q_2225_Zero_Or_One_Losses;
+package Solutions;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class ZeroOrOneLosses {
+public class Q2225_ZeroOrOneLosses {
     public static void main(String[] args) {
         
     }

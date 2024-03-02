@@ -1,6 +1,6 @@
-package Q_1457_Pseudo_Palindromic_Paths_Binary_Tree;
+package Solutions;
 
-public class PseudoPalindromicPathsBinaryTree {
+public class Q1457_PseudoPalindromicPathsBinaryTree {
     public static void main(String[] args) {
 
         //Solution1457 s = new Solution1457();

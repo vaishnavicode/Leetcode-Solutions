@@ -1,6 +1,6 @@
-package Q_938_Range_Sum_Of_BST;
+package Solutions;
 
-public class RangeSumOfBST {
+public class Q938_RangeSumOfBST {
 
     public static void main(String[] args) {
             

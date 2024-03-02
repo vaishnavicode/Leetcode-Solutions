@@ -1,8 +1,8 @@
-package Q_872_Leaf_Similar_Trees;
+package Solutions;
 
 import java.util.*;
 
-public class LeafSimilarTree {
+public class Q872_LeafSimilarTree {
     public static void main(String[] args) {
             
             Solution872 s = new Solution872();

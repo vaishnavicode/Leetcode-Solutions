@@ -1,16 +1,18 @@
-package Q_380_Insert_Delete_GetRandom;
+package Solutions;
 
 import java.util.*;
 
-class RandomizedSet {
+public class Q380_InsertDeleteGetRandom{
+    public static void main(String[] args) {
+        
+    }
+}
+
+class Solution380 {
     private final Random random = new Random();
     private final Map<Integer, Integer> map = new HashMap<>();
     private int[] vals = new int[32];
     private int i = 0;
-
-    public RandomizedSet() {
-        
-    }
     
     public boolean insert(int val) {
         Integer added = map.putIfAbsent(val, i);

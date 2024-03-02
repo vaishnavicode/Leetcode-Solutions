@@ -1,6 +1,6 @@
-package Q_739_DailyTemperatures;
+package Solutions;
 
-public class DailyTemperatures {
+public class Q739_DailyTemperatures {
     public static void main(String[] args) {
 
         Solution739 solution739 = new Solution739();

@@ -1,6 +1,6 @@
-package Q_150_Evaluate_Reverse_Polish_Notation;
+package Solutions;
 
-public class EvaluateReversePolishNotation {
+public class Q150_EvaluateReversePolishNotation {
     public static void main(String[] args) {
 
         Solution150 solution150 = new Solution150();

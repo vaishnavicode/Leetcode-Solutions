@@ -1,6 +1,6 @@
-package Q_576_Out_Boundary_Paths;
+package Solutions;
 
-public class OutBoundaryPaths {
+public class Q576_OutBoundaryPaths {
     public static void main(String[] args) {
 
         Solution576 s = new Solution576();

@@ -1,6 +1,6 @@
-package Q_629_KInverse_Pairs_Array;
+package Solutions;
 
-public class KInversePairsArray {
+public class Q629_KInversePairsArray {
     public static void main(String[] args) {
 
         Solution629 s = new Solution629();

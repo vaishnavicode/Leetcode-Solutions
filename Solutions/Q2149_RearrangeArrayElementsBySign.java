@@ -1,4 +1,6 @@
-public class RearrangeArrayElementsBySign {
+package Solutions;
+
+public class Q2149_RearrangeArrayElementsBySign {
     public static void main(String[] args) {
 
         Solution2149 s = new Solution2149();

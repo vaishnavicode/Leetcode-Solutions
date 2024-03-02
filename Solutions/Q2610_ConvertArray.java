@@ -1,7 +1,7 @@
-package Q_2610_Convert_Array;
+package Solutions;
 import java.util.*;
 
-class ConvertArray{
+public class Q2610_ConvertArray{
     public static void main(String[] args) {
 
         Solution2610 s = new Solution2610();

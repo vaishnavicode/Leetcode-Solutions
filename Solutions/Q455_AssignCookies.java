@@ -1,7 +1,7 @@
-package Q_455_Assign_Cookies;
+package Solutions;
 import java.util.Arrays;
 
-class AssignCookies{
+public class Q455_AssignCookies{
     public static void main(String[] args) {
 
         Solution455 s = new Solution455();

@@ -1,6 +1,6 @@
-package Q_931_Minimum_Falling_Path_Sum;
+package Solutions;
 
-public class MinimumFallingPathSum {
+public class Q931_MinimumFallingPathSum {
     public static void main(String[] args) {
         
         Solution931 s = new Solution931();

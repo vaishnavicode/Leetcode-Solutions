@@ -1,8 +1,8 @@
-package Q_1074_Submatrices_That_Sum_Target;
+package Solutions;
 
 import java.util.HashMap;
 
-public class SubmatricesThatSumTarget {
+public class Q1074_SubmatricesThatSumTarget {
     public static void main(String[] args) {
         
         Solution1074 s = new Solution1074();

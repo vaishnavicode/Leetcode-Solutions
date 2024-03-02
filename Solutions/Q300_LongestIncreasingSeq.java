@@ -1,5 +1,6 @@
-package Q_300_Longest_Increasing_Seq;
-class LongestIncreasingSeq{
+package Solutions;
+
+public class Q300_LongestIncreasingSeq{
     public static void main(String[] args) {
 
         Solution300 s = new Solution300();

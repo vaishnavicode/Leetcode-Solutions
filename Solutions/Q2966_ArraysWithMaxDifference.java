@@ -1,6 +1,8 @@
+package Solutions;
+
 import java.util.Arrays;
 
-class ArraysWithMaxDifference{
+public class Q2966_ArraysWithMaxDifference{
     public static void main(String[] args) {
 
         Solution2966 s = new Solution2966();

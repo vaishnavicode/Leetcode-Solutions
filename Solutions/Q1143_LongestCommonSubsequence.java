@@ -1,6 +1,6 @@
-package Q_1143_Longest_Common_Subsequence;
+package Solutions;
 
-public class LongestCommonSubsequence {
+public class Q1143_LongestCommonSubsequence {
     public static void main(String[] args) {
             
         Solution1143 s = new Solution1143();

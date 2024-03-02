@@ -1,4 +1,4 @@
-package Q_1026_Max_Difference_Between_Node_And_Ancestor;
+package Solutions;
 
 class TreeNode {
     int val;
@@ -9,7 +9,7 @@ class TreeNode {
     }
 }
 
-public class MaxDifferenceBetweenNodeAndAncestor {
+public class Q1026_MaxDifferenceBetweenNodeAndAncestor {
     public static void main(String[] args) {
             
             TreeNode root = new TreeNode(1);

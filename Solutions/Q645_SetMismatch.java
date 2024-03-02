@@ -1,6 +1,6 @@
-package Q_645_Set_Mismatch;
+package Solutions;
 
-public class SetMismatch {
+public class Q645_SetMismatch {
     public static void main(String[] args) {
         
         Solution645 s = new Solution645();

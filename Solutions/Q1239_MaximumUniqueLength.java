@@ -1,8 +1,8 @@
-package Q_1239_Maximum_Unique_Length;
+package Solutions;
 
 import java.util.List;
 
-public class MaximumUniqueLength {
+public class Q1239_MaximumUniqueLength {
     public static void main(String[] args) {
 
         Solution1239 s = new Solution1239();

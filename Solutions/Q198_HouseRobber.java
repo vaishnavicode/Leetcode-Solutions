@@ -1,4 +1,4 @@
-package Q_198_House_Robber;
+package Solutions;
 
 public class Q198_HouseRobber {
     public static void main(String[] args) {

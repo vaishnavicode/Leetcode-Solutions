@@ -1,6 +1,6 @@
-package Q_2125_Number_Beams;
+package Solutions;
 
-public class NumberBeams {
+public class Q2125_NumberBeams {
     public static void main(String[] args) {
 
         Solution2125 s = new Solution2125();

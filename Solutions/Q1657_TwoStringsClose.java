@@ -1,8 +1,8 @@
-package Q_1657_Two_Strings_Close;
+package Solutions;
 
 import java.util.Arrays;
 
-public class TwoStringsClose {
+public class Q1657_TwoStringsClose {
     public static void main(String[] args) {
 
         Solution1657 s = new Solution1657();

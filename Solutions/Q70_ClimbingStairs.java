@@ -1,4 +1,6 @@
-public class ClimbingStairs {
+package Solutions;
+
+public class Q70_ClimbingStairs {
     public static void main(String[] args) {
 
         Solution70 s = new Solution70();

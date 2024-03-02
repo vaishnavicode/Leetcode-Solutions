@@ -1,9 +1,9 @@
-package Q_1291_Sequential_Digits;
+package Solutions;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class SequentialDigits {
+public class Q1291_SequentialDigits {
     public static void main(String[] args) {
         
         Solution s = new Solution();

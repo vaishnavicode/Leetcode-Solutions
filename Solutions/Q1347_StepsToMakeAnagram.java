@@ -1,6 +1,6 @@
-package Q_1347_Steps_To_Make_Anagram;
+package Solutions;
 
-public class StepsToMakeAnagram {
+public class Q1347_StepsToMakeAnagram {
     public static void main(String[] args) {
         
         Solution1347 s = new Solution1347();

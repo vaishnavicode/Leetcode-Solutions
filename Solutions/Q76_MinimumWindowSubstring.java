@@ -1,6 +1,6 @@
-package Q_76_Minimum_Window_Substring;
+package Solutions;
 
-public class MinimumWindowSubstring {
+public class Q76_MinimumWindowSubstring {
     public static void main(String[] args) {
 
         Solution76 s = new Solution76();

@@ -1,9 +1,9 @@
-package Q_1235_Max_Profit_In_Job_Scheduling;
+package Solutions;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.TreeMap;
 
-class maxProfitInJobSchedulint{
+public class Q1235_MaxProfitInJobScheduling{
     public static void main(String[] args) {
 
         Solution1235 s = new Solution1235();

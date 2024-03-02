@@ -1,4 +1,6 @@
-class FirstPalindromicString{
+package Solutions;
+
+public class Q2108_FirstPalindromicString{
     public static void main(String[] args) {
 
         Solution2108 s = new Solution2108();

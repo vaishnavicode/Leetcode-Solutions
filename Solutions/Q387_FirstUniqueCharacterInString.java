@@ -1,4 +1,6 @@
-public class FirstUniqueCharacterInString {
+package Solutions;
+
+public class Q387_FirstUniqueCharacterInString {
     public static void main(String[] args) {
         Solution387 s = new Solution387();
         System.out.println(s.firstUniqChar("leetcode"));

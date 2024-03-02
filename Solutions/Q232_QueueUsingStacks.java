@@ -1,4 +1,4 @@
-package Q_232_Queue_Using_Stacks;
+package Solutions;
 
 import java.util.Stack;
 

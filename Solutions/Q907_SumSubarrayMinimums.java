@@ -1,6 +1,6 @@
-package Q_907_Sum_Subarray_Minimums;
+package Solutions;
 
-public class SumSubarrayMinimums {
+public class Q907_SumSubarrayMinimums {
     public static void main(String[] args) {
         
         Solution907 s = new Solution907();

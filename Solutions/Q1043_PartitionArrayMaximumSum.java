@@ -1,6 +1,6 @@
-package Q_1043_Partition_Array_Maximum_Sum;
+package Solutions;
 
-public class PartitionArrayMaximumSum {
+public class Q1043_PartitionArrayMaximumSum {
     public static void main(String[] args) {
 
         Solution1043 s = new Solution1043();

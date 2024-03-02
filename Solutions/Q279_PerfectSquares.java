@@ -1,4 +1,6 @@
-class PerfectSquares{
+package Solutions;
+
+public class Q279_PerfectSquares{
     public static void main(String[] args) {
         
         Solution279 s = new Solution279();

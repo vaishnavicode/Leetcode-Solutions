@@ -1,7 +1,7 @@
-package Q_2870_Min_Operation;
+package Solutions;
 
 import java.util.Arrays;
-public class MinOperation {
+public class Q2870_MinOperation {
     public static void main(String[] args) {
 
         Solution2870 s = new Solution2870();

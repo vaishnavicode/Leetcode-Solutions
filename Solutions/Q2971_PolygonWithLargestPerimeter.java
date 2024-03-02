@@ -1,4 +1,6 @@
-public class PolygonWithLargestPerimeter {
+package Solutions;
+
+public class Q2971_PolygonWithLargestPerimeter {
     public static void main(String[] args) {
 
         Solution2971 s = new Solution2971();
