@@ -36,8 +36,8 @@
 - [x]  5 February: 387. First Unique Character in a String (https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [ ]  6 February:
 - [ ]  7 February:
-- [ ]  8 February:
-- [ ]  9 February:
+- [ ]  8 February: 279. Perfect Squares (https://leetcode.com/problems/perfect-squares/)
+- [ ]  9 February: 
 - [ ]  10 February:
 - [ ]  11 February:
 - [ ]  12 February:
