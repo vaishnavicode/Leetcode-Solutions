@@ -47,7 +47,7 @@
 - [x]  16 February: 1481. Least Number of Unique Integers after K Removals (https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)
 - [X]  17 February: 1642. Furthest Building You Can Reach (https://leetcode.com/problems/furthest-building-you-can-reach/)
 - [ ]  18 February:
-- [ ]  19 February:
+- [x]  19 February: 231. Power of Two (https://leetcode.com/problems/power-of-two/)
 - [ ]  20 February:
 - [ ]  21 February:
 - [ ]  22 February:
