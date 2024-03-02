@@ -2,7 +2,7 @@ package Q_232_Queue_Using_Stacks;
 
 import java.util.Stack;
 
-public class QueueUsingStacks {
+public class Q232_QueueUsingStacks {
     public static void main(String[] args) {
 
         Solution232 obj = new Solution232();

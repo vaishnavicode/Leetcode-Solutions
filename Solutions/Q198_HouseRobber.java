@@ -1,6 +1,6 @@
 package Q_198_House_Robber;
 
-public class HouseRobber {
+public class Q198_HouseRobber {
     public static void main(String[] args) {
         
         Solution198 s = new Solution198();
