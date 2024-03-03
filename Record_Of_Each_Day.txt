@@ -58,9 +58,9 @@
 - [x]  27 February: 543. Diameter of Binary Tree (https://leetcode.com/problems/diameter-of-binary-tree/)
 - [x]  28 February: 513. Find Bottom Left Tree Value (https://leetcode.com/problems/find-bottom-left-tree-value/)
 - [x]  29 February: 1609. Even Odd Tree (https://leetcode.com/problems/even-odd-tree/)
-- [ ]  1 March:
-- [ ]  2 March:
-- [ ]  3 March:
+- [x]  1 March: 2864. Maximum Odd Binary Number (https://leetcode.com/problems/maximum-odd-binary-number/)
+- [x]  2 March: 977. Squares of a Sorted Array (https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [x]  3 March: 19. Remove Nth Node From End of List (https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [ ]  4 March:
 - [ ]  5 March:
 - [ ]  6 March:
