@@ -61,7 +61,7 @@
 - [x]  1 March: 2864. Maximum Odd Binary Number (https://leetcode.com/problems/maximum-odd-binary-number/)
 - [x]  2 March: 977. Squares of a Sorted Array (https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [x]  3 March: 19. Remove Nth Node From End of List (https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- [ ]  4 March:
+- [x]  4 March: 948. Bag of Tokens (https://leetcode.com/problems/bag-of-tokens/)
 - [ ]  5 March:
 - [ ]  6 March:
 - [ ]  7 March:
