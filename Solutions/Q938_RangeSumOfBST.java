@@ -10,17 +10,17 @@ public class Q938_RangeSumOfBST {
     
 }
 
-class TreeNode{
+class TreeNode938{
     int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int x){
+    TreeNode938 left;
+    TreeNode938 right;
+    TreeNode938(int x){
         val = x;
     }
 }
 
 class Solution938{
-    public int rangeSumBST(TreeNode root, int low, int high) {
+    public int rangeSumBST(TreeNode938 root, int low, int high) {
         
         if (root == null) {
             return 0;

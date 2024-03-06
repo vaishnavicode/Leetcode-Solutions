@@ -9,11 +9,11 @@ public class Q2385_InfectedTree {
     
 }
 
-class TreeNode{
+class TreeNode2385{
     int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int x){
+    TreeNode2385 left;
+    TreeNode2385 right;
+    TreeNode2385(int x){
         val = x;
     }
 }
@@ -21,12 +21,12 @@ class TreeNode{
 class Solutions2385{
     private int result;
 
-    public int amountOfTime(TreeNode root, int start) {
+    public int amountOfTime(TreeNode2385 root, int start) {
         DFS(root, start);
         return result;
     }
 
-    private int DFS(TreeNode node, int start){
+    private int DFS(TreeNode2385 node, int start){
         if(node == null) return 0;
 
         int leftDepth = DFS(node.left, start);

@@ -2,13 +2,13 @@ package Solutions;
 
 import java.util.*;
 
-class TreeNode {
+class TreeNode513 {
     int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode() {}
-    TreeNode(int val) { this.val = val; }
-    TreeNode(int val, TreeNode left, TreeNode right) {
+    TreeNode513 left;
+    TreeNode513 right;
+    TreeNode513() {}
+    TreeNode513(int val) { this.val = val; }
+    TreeNode513(int val, TreeNode513 left, TreeNode513 right) {
         this.val = val;
         this.left = left;
         this.right = right;
@@ -19,10 +19,10 @@ public class Q513_BottomLeftTreeValue {
     public static void main(String[] args) {
 
         // Solution1609 s = new Solution1609();
-        // TreeNode root = new TreeNode(1);
-        // TreeNode rootleft = new TreeNode(10);
+        // TreeNode513 root = new TreeNode513(1);
+        // TreeNode513 rootleft = new TreeNode513(10);
         // root.left = rootleft;
-        // TreeNode rootright = new TreeNode(4);
+        // TreeNode513 rootright = new TreeNode513(4);
         // root.right = rootright;
         // System.out.println(s.isEvenOddTree(root));
 
@@ -32,8 +32,8 @@ public class Q513_BottomLeftTreeValue {
 }
 
 class Solution1609 {
-    public boolean isEvenOddTree(TreeNode root) {
-        Queue<TreeNode> que = new LinkedList<>();
+    public boolean isEvenOddTree(TreeNode513 root) {
+        Queue<TreeNode513> que = new LinkedList<>();
         que.add(root);
         que.add(null);
         int res = 1;

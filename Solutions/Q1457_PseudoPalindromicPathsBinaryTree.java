@@ -11,13 +11,13 @@ public class Q1457_PseudoPalindromicPathsBinaryTree {
 
 /**
  * Definition for a binary tree node.
- * public class TreeNode {
+ * public class TreeNode1457 {
  *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *     TreeNode1457 left;
+ *     TreeNode1457 right;
+ *     TreeNode1457() {}
+ *     TreeNode1457(int val) { this.val = val; }
+ *     TreeNode1457(int val, TreeNode1457 left, TreeNode1457 right) {
  *         this.val = val;
  *         this.left = left;
  *         this.right = right;
@@ -25,22 +25,22 @@ public class Q1457_PseudoPalindromicPathsBinaryTree {
  * }
  */
 
- class TreeNode{
+ class TreeNode1457{
     int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int x){
+    TreeNode1457 left;
+    TreeNode1457 right;
+    TreeNode1457(int x){
         val = x;
     }
 }
 
 class Solution1457 {
     int ans =0;
-    public int pseudoPalindromicPaths (TreeNode root) {
+    public int pseudoPalindromicPaths (TreeNode1457 root) {
         func(root, 0);
         return ans;
     }
-    void func(TreeNode node, int seen){
+    void func(TreeNode1457 node, int seen){
         if(node == null) return;
         // System.out.println("b4 " + Integer.toBinaryString(seen));
         seen^=(1<<node.val);

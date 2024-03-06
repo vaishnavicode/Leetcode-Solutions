@@ -1,12 +1,12 @@
 package Solutions;
 
-class TreeNode {
+class TreeNode543 {
     int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode() {}
-    TreeNode(int val) { this.val = val; left = null; right = null;}
-    TreeNode(int val, TreeNode left, TreeNode right) {
+    TreeNode543 left;
+    TreeNode543 right;
+    TreeNode543() {}
+    TreeNode543(int val) { this.val = val; left = null; right = null;}
+    TreeNode543(int val, TreeNode543 left, TreeNode543 right) {
         this.val = val;
         this.left = left;
         this.right = right;
@@ -17,11 +17,11 @@ public class Q543_DiameterBinaryTree {
     public static void main(String[] args) {
 
         Solution543 s = new Solution543();
-        TreeNode root = new TreeNode(1);
-        TreeNode right = new TreeNode(3);
-        TreeNode left = new TreeNode(2);
-        TreeNode leftRight = new TreeNode(5);
-        TreeNode leftLeft = new TreeNode(4);
+        TreeNode543 root = new TreeNode543(1);
+        TreeNode543 right = new TreeNode543(3);
+        TreeNode543 left = new TreeNode543(2);
+        TreeNode543 leftRight = new TreeNode543(5);
+        TreeNode543 leftLeft = new TreeNode543(4);
         left.right = leftRight;
         left.left = leftLeft;
         root.right = right;
@@ -35,12 +35,12 @@ public class Q543_DiameterBinaryTree {
 
 class Solution543 {
     int diameter = 0;
-    public int diameterOfBinaryTree(TreeNode root) {
+    public int diameterOfBinaryTree(TreeNode543 root) {
         diameter(root);
         return diameter;
     }
 
-    public int diameter(TreeNode root){
+    public int diameter(TreeNode543 root){
         if(root== null){
             return 0;
         }
